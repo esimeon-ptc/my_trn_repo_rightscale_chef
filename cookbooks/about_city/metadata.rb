@@ -20,7 +20,7 @@ attribute "about_city/city_name",
 
 # Recommended Input #
 attribute "about_city/rain",
-    :display_name => "Raining"
+    :display_name => "Raining",
     :description => "It is raining? Yes or No",
     :required => "recommended",
     :choice => ["yes", "no"],
