@@ -7,4 +7,5 @@
 # All rights reserved - Do Not Redistribute
 #
 
+rightscale_marker
 log "Hello World! You should try Chef with RightScale! -ES"
